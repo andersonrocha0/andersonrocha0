@@ -8,4 +8,4 @@ I'm a Full Stack Developer with expertise in building scalable, high-performance
 
 🔗 **Current Role**: Senior Full Stack Developer at MAN.
 
-[![@andersonrocha0's Holopin board](https://holopin.io/api/user/board?user=andersonrocha0)](https://holopin.io/@andersonrocha0)
+[![An image of @andersonrocha0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andersonrocha0)](https://holopin.io/@andersonrocha0)
