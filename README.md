@@ -4,7 +4,7 @@ I'm a Full Stack Developer with expertise in building scalable, high-performance
 
 💡 **Always Learning**: I'm passionate about continuously improving my skills and exploring new tech.
 
-📚 **Sharing Knowledge**: When I'm not coding, you'll find me teaching programming, including Python and other cool topics on YouTube.
+📚 **Sharing Knowledge**: When I'm not coding, you'll find me teaching programming, including Python and other cool topics on [YouTube](https://www.youtube.com/@andersonrochadev).
 
 🔗 **Current Role**: Senior Full Stack Developer at MAN.
 
